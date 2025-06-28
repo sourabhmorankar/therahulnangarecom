@@ -10,5 +10,5 @@
 		"sourceMap": true,
 		"strict": true
 	},
-	"exclude": ["sanity-studio"]
+	"exclude": ["sanity-studio", "node_modules"]
 }
